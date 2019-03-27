@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1471211001 source:c:\users\jeffrey\documents\c++\progra_proyecto\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<iomanip>
+	<cstring>
+
